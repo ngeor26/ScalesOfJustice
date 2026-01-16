@@ -212,7 +212,7 @@ function strikesFinished() {
     setTimeout(() => {
         if (!skipped) {
             window.alert(
-                "Please drag two characters onto each arm of the scale and select a criterion at the bottom."
+                "Please drag two characters onto each arm of the scale and select a criterion at the bottom. You can right click a placed character to remove them from the scale."
             );
         }
     }, 2000);
