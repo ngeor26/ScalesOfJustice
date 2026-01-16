@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scales of Justice</title>
+    <style>
+        body {
+            background: radial-gradient(circle at top, #111 0%, #000 80%);
+            color: #fff;
+            font-family: "Times New Roman", serif;
+            margin: 0;
+            height: 100vh;
+            overflow: hidden;
+        }
+        
+        .comparison-info {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            height: 100%;
+        }
+        
+        .character-display {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            position: relative;
+        }
+        
+        .scale-display {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem;
+            border: 2px solid #bd9df2;
+            border-radius: 10px;
+            background: rgba(0, 0, 0, 0.5);
+        }
+        
+        .scale-display h2 {
+            font-size: 1.5rem;
+            text-shadow: 0 0 10px #bd9df2;
+            margin-bottom: 0.5rem;
+        }
+        
+        .scale-display p {
+            font-size: 2rem;
+            color: #bd9df2;
+            text-shadow: 0 0 15px #bd9df2;
+            margin: 0;
+        }
+        
+        .character-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: white;
+        }
+        
+        .character-card img {
+            width: 20vh;
+            height: 20vh;
+            object-fit: cover;
+            border: 2px solid #bd9df2;
+            border-radius: 10px;
+            margin-bottom: 0.5rem;
+        }
+        
+        .character-card .name {
+            text-align: center;
+            font-size: 1.6rem;
+            text-shadow: 0 0 5px #bd9df2;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        #scalesImage {
+            height: 70vh;
+            width: 50vw;
+            padding-bottom: 20vh;
+        }
+
+        .guiltyLeft {
+            top: 13vh;
+            left: 13.5vw;
+        }
+        
+        .guiltyRight {
+            top: 13vh;
+            right: 13vw;
+        }
+
+        .notGuiltyLeft {
+            bottom: 15vh;
+            left: 15vw;
+        }
+
+        .notGuiltyRight {
+            bottom: 15vh;
+            right: 14.5vw;
+        }
+
+        .flatLeft {
+            left: 13vw;
+            bottom: 1.5vh;
+        }
+
+        .flatRight {
+            right: 13.5vw;
+            bottom: 1.5vh;
+        }
+
+        .info {
+            font-size: 1.3rem;
+            text-align: center;
+            position: absolute;
+            max-width: 20vw;
+            top: 10vh;
+        }
+
+        #finalJudgment {
+            position: absolute;
+            bottom: 1vh;
+            left: 2vw;
+            max-width: 80vw;
+            font-size: 1.4rem;
+            font-weight: bold;
+        }
+
+        #backButton {
+            position: fixed;      /* fixed so it stays in place */
+            bottom: 1rem;         /* distance from bottom */
+            right: 1rem;          /* distance from right */
+            padding: 0.8rem 1.2rem;
+            font-size: 1rem;
+            background-color: #bd9df2;
+            color: #000;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            box-shadow: 0 0 10px #bd9df2;
+            padding-inline: 50px;
+            padding-block: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="title">Character Comparison: </h1>
+    <p class="info" id="char1Info" style="left: 3vw"></p>
+    <div class="comparison-info">
+        <div class="character-display" id="character1Display">
+            <div class="character-card">
+                <img id="char1Image" src="" alt="Character 1" />
+                <div class="name" id="char1Name">Loading...</div>
+            </div>
+        </div>
+        <img id="scalesImage" src="flat.png" alt="Scales of Justice" class="scales-image" />
+        <div class="character-display" id="character2Display">
+            <div class="character-card">
+                <img id="char2Image" src="" alt="Character 2" />
+                <div class="name" id="char2Name">Loading...</div>
+            </div>
+        </div>
+        <br>
+    </div>
+    <p class="info" id="char2Info" style="right: 3vw"></p>
+    <p id="finalJudgment"></p>
+
+    <button id="backButton" onclick="window.location.href='index.html?skipIntro=true'">Back</button>
+    <script src="compare.js"></script>
+</body>
+</html>

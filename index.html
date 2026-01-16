@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Scales of Justice</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <canvas id="canvas"></canvas>
+
+    <div class="flash" id="flash"></div>
+
+    <div class="start-overlay" id="startOverlay">
+        <h1 style="color: white">Volume Warning</h1>
+        <div class="start-message">Click to begin</div>
+        <button id="skipIntro" style="
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 200;
+            padding: 0.5rem 1rem;
+            font-size: 1rem;
+            background: #bd9df2;
+            color: #000;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        ">Skip Intro</button>
+    </div>
+
+    <div class="container" id="container">
+        <div class="word" id="w1">SCALES</div>
+        <div class="word" id="w2">OF</div>
+        <div class="word" id="w3">JUSTICE</div>
+    </div>
+
+    <div class="character-bank left" id="characterBankLeft">
+        <div class="character" draggable="true">
+            <img src="./characters/grendel.jpg" alt="Grendel" style="object-position: top;" />
+            <div class="name">Grendel</div>
+        </div>
+        <div class="character" draggable="true">
+            <img src="./characters/dane.jpg" alt="The Danes" />
+            <div class="name">The Danes</div>
+        </div>
+        <div class="character" draggable="true">
+            <img src="./characters/frankenstein.jpg" alt="Frankenstein" />
+            <div class="name">Frankenstein</div>
+        </div>
+        <div class="character" draggable="true">
+            <img src="./characters/creature.jpg" alt="The Creature" style="object-position: top;" />
+            <div class="name">The Creature</div>
+        </div>
+        <div class="character" draggable="true">
+            <img src="./characters/neville.jpg" alt="Neville" style="object-position: top;" />
+            <div class="name">Neville</div>
+        </div>
+    </div>
+
+    <div class="character-bank right" id="characterBankRight">
+        <div class="character" draggable="true">
+            <img src="./characters/society.jpg" alt="The New Society" />
+            <div class="name">The New Society</div>
+        </div>
+        <div class="character" draggable="true">
+            <img src="./characters/mother.jpg" alt="Mother" style="object-position: top;" />
+            <div class="name">Mother</div>
+        </div>
+        <div class="character" draggable="true">
+            <img src="./characters/norman.jpg" alt="Norman" />
+            <div class="name">Norman</div>
+        </div>
+        <div class="character" draggable="true">
+            <img src="./characters/marion.jpg" alt="Marion" />
+            <div class="name">Marion</div>
+        </div>
+    </div>
+
+    <div class="mainContainer">
+        <img id="scalesImage" src="flat.png" alt="Scales of Justice" class="scales-image" />
+
+        <div class="drop-zone left" id="dropLeft"></div>
+        <div class="drop-zone right" id="dropRight"></div>
+
+        <div id="scales">
+            <h2>Choose a scale to judge the characters:</h2>
+            <div class="scale-options">
+                <button class="scale-btn" data-scale="legal">Legal</button>
+                <button class="scale-btn" data-scale="moral">Moral</button>
+                <button class="scale-btn" data-scale="psychological">Psychological</button>
+            </div>
+        </div>
+    </div>
+
+    <audio id="thunder" src="thunder.mp3" preload="auto"></audio>
+    <audio id="thunder-full" src="thunder-full.mp3" preload="auto"></audio>
+
+    <script src="lightning.js"></script>
+    <script src="compareCheck.js"></script>
+    <script>
+        const scaleButtons = document.querySelectorAll(".scale-btn");
+
+        // Make buttons mutually exclusive
+        scaleButtons.forEach((btn) => {
+            btn.addEventListener("click", () => {
+                // Remove 'selected' class from all buttons
+                scaleButtons.forEach((b) => b.classList.remove("selected"));
+                // Add 'selected' class to clicked button
+                btn.classList.add("selected");
+                selection = btn.innerText;
+                window.selection = selection; // Update global selection
+                console.log(selection);
+                
+                // Check if we can navigate to compare page
+                if (typeof checkAndNavigate === 'function') {
+                    checkAndNavigate();
+                }
+            });
+        });
+    </script>
+    <script src="drop.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,388 @@
+{
+  "Grendel": {
+    "The Danes": {
+      "legal": { "verdict": 0, "message": "Since no clear law is defined, both Grendel and the Danes are guiltless evaluated from a legal perspective." },
+      "moral": { "verdict": 1, "message": "Grendel is more guilty on the moral perspective as his killings are largely made out of the intention to cause harm, whereas the Danes mostly attack Grendel in acts of heroism or self-defense." },
+      "psychological": { "verdict": 2, "message": "Grendel, during the 'twelve-year war' sincerely thought his killings were justified because its his purpose. He also gave humans a chance to interact with him peaceably. However, since the Danes consistently regard Grendel as a monster and attack on sight, they are psychologically more guilty." }
+    },
+    "Frankenstein": {
+      "legal": { "verdict": 2, "message": "Whereas Grendel doesn't have a clearly defined law to defy, Frankenstein is legally guilty in witholding his culpability and is thus more legally guilty." },
+      "moral": { "verdict": 2, "message": "Eveluated on all three ethical frameworks, Frankenstein is guilty, whereas Grendel is excused through the doctrine of double effect deontologically. Thus, Frankenstein is more morally guilty." },
+      "psychological": { "verdict": 2, "message": "Since Frankenstein willfully abandonded the Creature, but Grendel acts according to what he thinks is his nature, Frankenstein is more psychologically guilty." }
+    },
+    "The Creature": {
+      "legal": { "verdict": 2, "message": "The Creature is more legally guilty because his murders violate laws, even if he is not considered a member of the human society. Conversely, Grendel has no clearly defined laws to violate." },
+      "moral": { "verdict": 2, "message": "The Creature is guilty according to all three ethical frameworks, where deontology partially excuses Grendel. Thus, the Creature is more morally guilty." },
+      "psychological": { "verdict": 2, "message": "The Creature's calculated plots to exact revenge on Frankenstein demonstrate intellectual aptitude and a deep understanding of the outcome of his murders. Grendel, on the other hand, acts according to what he belives his purpose to be. Thus, the Creature is more psychologically guilty." }
+    },
+    "Neville": {
+      "legal": { "verdict": 0, "message": "Law has collapsed in both Neville and Grendel's world so both are reasonably guilt-free from a legal perspective." },
+      "moral": { "verdict": 1, "message": "Since Neville is guiltless from a deontological perspective, whereas Grendel is only partially guiltless, Grendel is, overrall, more morally guilty." },
+      "psychological": { "verdict": 1, "message": "Grendel is more guilty psychologically because he continues to kill even after considering that life may have meaning beyond killing (with Wealtheow). Neville's murders on the other hand come from a side of genuine self-defense and survival." }
+    },
+    "The New Society": {
+      "legal": { "verdict": 0, "message": "Both Grendel and the new society are legally guilt-free." },
+      "moral": { "verdict": 1, "message": "Grendel's murders outweigh the new society's execution of Neville on the moral scale." },
+      "psychological": { "verdict": 2, "message": "The new society's eager anticipation to kill Neville and their sadistic excitement when killing other vampires renders them more guilty than Grendel, who only acts according to what he believes his purpose is." }
+    },
+    "Mother": {
+      "legal": { "verdict": 2, "message": "Mother is legally more guilty as her murders hold weight in Psycho's American society whereas Grendel's old society has ambiguous laws." },
+      "moral": { "verdict": 2, "message": "Mother is more morally guilty as her murders don't achieve any net good and she relinquishes all morality when committing them. Grendel, on the other hand, can be excused in that he attempted genuine human connection at first." },
+      "psychological": { "verdict": 2, "message": "Psychologically, Mother is more guilty as she selfishly commits murders knowing the outcome. Grendel, however, commits murders thinking that it's his purpose, which partially excuses him." }
+    },
+    "Norman": {
+      "legal": { "verdict": 2, "message": "Norman is more legally guilty as he is complicit in the murders of Mother, whereas Grendel does not have clearly defined laws to break." },
+      "moral": { "verdict": 2, "message": "Norman bears more moral guilt as all three frameworks find him culpable in assisting with Mother's murders." },
+      "psychological": { "verdict": 1, "message": "Since Norman is not fully in control of his mind and body, it is hard to assign him psychological guilt when, Grendel, willfully and knowingly killed the Danes." }
+    },
+    "Marion": {
+      "legal": { "verdict": 2, "message": "Marion is more legally guilty as she willfully commits theft. There are no laws to compare Grendel's murders against." },
+      "moral": { "verdict": 1, "message": "Even though Marion checks more of the 'ethical framework boxes' compared to Grendel, the severity of her theft pales in comparison to Grendel's murders." },
+      "psychological": { "verdict": 2, "message": "Marion is more psychologically guilty because she, in a lucid state, commits her crime and never owns up to it. Grendel, on the other hand, genuinely thinks it is his purpose to kill and acts accordingly." }
+    }
+  },
+
+  "The Danes": {
+    "Grendel": {
+      "legal": { "verdict": 0, "message": "Since no clear law is defined, both Grendel and the Danes are guiltless evaluated from a legal perspective." },
+      "moral": { "verdict": 2, "message": "Grendel is more guilty on the moral perspective as his killings are largely made out of the intention to cause harm, whereas the Danes mostly attack Grendel in acts of heroism or self-defense." },
+      "psychological": { "verdict": 1, "message": "Grendel, during the 'twelve-year war' sincerely thought his killings were justified because its his purpose. He also gave humans a chance to interact with him peaceably. However, since the Danes consistently regard Grendel as a monster and attack on sight, they are psychologically more guilty." }
+    },
+    "Frankenstein": {
+      "legal": { "verdict": 2, "message": "Frankenstein's willful defiance of the law when he withholds his culpability renders him more legally guilty than the Danes, who act within their own laws." },
+      "moral": { "verdict": 2, "message": "Frankenstein bears guilt according to all three ethical frameworks, whereas deontology excuses the Danes for acting according to their moral compass. Thus, Frankenstein is more guilty." },
+      "psychological": { "verdict": 0, "message": "Frankenstein abandons the Creature and the Danes never regard Grendel with respect. Both are aware of the outcomes, and both are equally guilty." }
+    },
+    "The Creature": {
+      "legal": { "verdict": 2, "message": "If considering the Creature legally responsible for human crimes, then the Creature is more legally guilty than the Danes." },
+      "moral": { "verdict": 2, "message": "The Creature's killings are morally inexcusible despite his tragic circumstances, whereas deontology pardons the Danes' attacks. Thus, the Creature is more morally guilty." },
+      "psychological": { "verdict": 0, "message": "Both the Danes and the Creature kill (or attempt to) knowing the outcome. Thus, both are equally guilty." }
+    },
+    "Neville": {
+      "legal": { "verdict": 0, "message": "The Danes and Neville are equally not guilty as they both define their own legal standards." },
+      "moral": { "verdict": 2, "message": "Both Neville and the Danes are excused deontologically, but guilty from utilitarian and consequentialist standpoints. However, the moral weight of Neville's killing outweight that of the Danes' as he has killed presumably hundreds of vampires." },
+      "psychological": { "verdict": 1, "message": "The Danes bear more psychological guilt, as they willfully cast Grendel as nothing but a monster and use that to rationalize their attacks. Neville, however, was not aware of the outcome of his killings, and is thus acquitted on this front." }
+    },
+    "The New Society": {
+      "legal": { "verdict": 0, "message": "Both of these societies act within their own legal code and are equally not guilty." },
+      "moral": { "verdict": 1, "message": "The Danes bear more moral culpability as their attempts to kill Grendel violate consequentialist and utilitarian standards. The New Society on the other hand largely act in self-defense when executing Neville." },
+      "psychological": { "verdict": 0, "message": "Both the New Society and the Danes kill or attempt to kill out of self-defense and are thus equally guilty." }
+    },
+    "Mother": {
+      "legal": { "verdict": 2, "message": "Mother is more legally guilty as she violates human laws against murders. The Danes write their own laws and are not guilty." },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    },
+    "Norman": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "Marion": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    }
+  },
+
+  "Frankenstein": {
+    "Grendel": {
+      "legal": { "verdict": 1, "message": "Whereas Grendel doesn't have a clearly defined law to defy, Frankenstein is legally guilty in witholding his culpability and is thus more legally guilty." },
+      "moral": { "verdict": 1, "message": "Eveluated on all three ethical frameworks, Frankenstein is guilty, whereas Grendel is excused through the doctrine of double effect deontologically. Thus, Frankenstein is more morally guilty." },
+      "psychological": { "verdict": 1, "message": "Since Frankenstein willfully abandonded the Creature, but Grendel acts according to what he thinks is his nature, Frankenstein is more psychologically guilty." }
+    },
+    "The Danes": {
+      "legal": { "verdict": 1, "message": "Frankenstein's willful defiance of the law when he withholds his culpability renders him more legally guilty than the Danes, who act within their own laws." },
+      "moral": { "verdict": 1, "message": "Frankenstein bears guilt according to all three ethical frameworks, whereas deontology excuses the Danes for acting according to their moral compass. Thus, Frankenstein is more guilty." },
+      "psychological": { "verdict": 0, "message": "Frankenstein abandons the Creature and the Danes never regard Grendel with respect. Both are aware of the outcomes, and both are equally guilty." }
+    },
+    "The Creature": {
+      "legal": { "verdict": 0, "message": "" },
+      "moral": { "verdict": 0, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    },
+    "Neville": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "The New Society": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "Mother": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 0, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    },
+    "Norman": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "Marion": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    }
+  },
+
+  "The Creature": {
+    "Grendel": {
+      "legal": { "verdict": 1, "message": "The Creature is more legally guilty because his murders violate laws, even if he is not considered a member of the human society. Conversely, Grendel has no clearly defined laws to violate." },
+      "moral": { "verdict": 1, "message": "The Creature is guilty according to all three ethical frameworks, where deontology partially excuses Grendel. Thus, the Creature is more morally guilty." },
+      "psychological": { "verdict": 1, "message": "The Creature's calculated plots to exact revenge on Frankenstein demonstrate intellectual aptitude and a deep understanding of the outcome of his murders. Grendel, on the other hand, acts according to what he belives his purpose to be. Thus, the Creature is more psychologically guilty." }
+    },
+    "The Danes": {
+      "legal": { "verdict": 1, "message": "If considering the Creature legally responsible for human crimes, then the Creature is more legally guilty than the Danes." },
+      "moral": { "verdict": 1, "message": "The Creature's killings are morally inexcusible despite his tragic circumstances, whereas deontology pardons the Danes' attacks. Thus, the Creature is more morally guilty." },
+      "psychological": { "verdict": 0, "message": "Both the Danes and the Creature kill (or attempt to) knowing the outcome. Thus, both are equally guilty." }
+    },
+    "Frankenstein": {
+      "legal": { "verdict": 0, "message": "" },
+      "moral": { "verdict": 0, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    },
+    "Neville": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "The New Society": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "Mother": {
+      "legal": { "verdict": 0, "message": "" },
+      "moral": { "verdict": 0, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    },
+    "Norman": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "Marion": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    }
+  },
+
+  "Neville": {
+    "Grendel": {
+      "legal": { "verdict": 0, "message": "Law has collapsed in both Neville and Grendel's world so both are reasonably guilt-free from a legal perspective." },
+      "moral": { "verdict": 2, "message": "Since Neville is guiltless from a deontological perspective, whereas Grendel is only partially guiltless, Grendel is, overrall, more morally guilty." },
+      "psychological": { "verdict": 2, "message": "Grendel is more guilty psychologically because he continues to kill even after considering that life may have meaning beyond killing (with Wealtheow). Neville's murders on the other hand come from a side of genuine self-defense and survival." }
+    },
+    "The Danes": {
+      "legal": { "verdict": 0, "message": "The Danes and Neville are equally not guilty as they both define their own legal standards." },
+      "moral": { "verdict": 1, "message": "Both Neville and the Danes are excused deontologically, but guilty from utilitarian and consequentialist standpoints. However, the moral weight of Neville's killing outweight that of the Danes' as he has killed presumably hundreds of vampires." },
+      "psychological": { "verdict": 2, "message": "The Danes bear more psychological guilt, as they willfully cast Grendel as nothing but a monster and use that to rationalize their attacks. Neville, however, was not aware of the outcome of his killings, and is thus acquitted on this front." }
+    },
+    "Frankenstein": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "The Creature": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "The New Society": {
+      "legal": { "verdict": 0, "message": "" },
+      "moral": { "verdict": 0, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "Mother": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "Norman": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "Marion": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    }
+  },
+
+  "The New Society": {
+    "Grendel": {
+      "legal": { "verdict": 0, "message": "Both Grendel and the new society are legally guilt-free." },
+      "moral": { "verdict": 2, "message": "Grendel's murders outweigh the new society's execution of Neville on the moral scale." },
+      "psychological": { "verdict": 1, "message": "The new society's eager anticipation to kill Neville and their sadistic excitement when killing other vampires renders them more guilty than Grendel, who only acts according to what he believes his purpose is." }
+    },
+    "The Danes": {
+      "legal": { "verdict": 0, "message": "Both of these societies act within their own legal code and are equally not guilty." },
+      "moral": { "verdict": 2, "message": "The Danes bear more moral culpability as their attempts to kill Grendel violate consequentialist and utilitarian standards. The New Society on the other hand largely act in self-defense when executing Neville." },
+      "psychological": { "verdict": 0, "message": "Both the New Society and the Danes kill or attempt to kill out of self-defense and are thus equally guilty." }
+    },
+    "Frankenstein": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "The Creature": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "Neville": {
+      "legal": { "verdict": 0, "message": "" },
+      "moral": { "verdict": 0, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "Mother": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "Norman": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "Marion": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    }
+  },
+
+  "Mother": {
+    "Grendel": {
+      "legal": { "verdict": 1, "message": "Mother is legally more guilty as her murders hold weight in Psycho's American society whereas Grendel's old society has ambiguous laws." },
+      "moral": { "verdict": 1, "message": "Mother is more morally guilty as her murders don't achieve any net good and she relinquishes all morality when committing them. Grendel, on the other hand, can be excused in that he attempted genuine human connection at first." },
+      "psychological": { "verdict": 1, "message": "Psychologically, Mother is more guilty as she selfishly commits murders knowing the outcome. Grendel, however, commits murders thinking that it's his purpose, which partially excuses him." }
+    },
+    "The Danes": {
+      "legal": { "verdict": 1, "message": "Mother is more legally guilty as she violates human laws against murders. The Danes write their own laws and are not guilty." },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    },
+    "Frankenstein": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 0, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    },
+    "The Creature": {
+      "legal": { "verdict": 0, "message": "" },
+      "moral": { "verdict": 0, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    },
+    "Neville": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "The New Society": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "Norman": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "Marion": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    }
+  },
+
+  "Norman": {
+    "Grendel": {
+      "legal": { "verdict": 1, "message": "Norman is more legally guilty as he is complicit in the murders of Mother, whereas Grendel does not have clearly defined laws to break." },
+      "moral": { "verdict": 1, "message": "Norman bears more moral guilt as all three frameworks find him culpable in assisting with Mother's murders." },
+      "psychological": { "verdict": 2, "message": "Since Norman is not fully in control of his mind and body, it is hard to assign him psychological guilt when, Grendel, willfully and knowingly killed the Danes." }
+    },
+    "The Danes": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "Frankenstein": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "The Creature": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "Neville": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "The New Society": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "Mother": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "Marion": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    }
+  },
+
+  "Marion": {
+    "Grendel": {
+      "legal": { "verdict": 1, "message": "Marion is more legally guilty as she willfully commits theft. There are no laws to compare Grendel's murders against." },
+      "moral": { "verdict": 2, "message": "Even though Marion checks more of the 'ethical framework boxes' compared to Grendel, the severity of her theft pales in comparison to Grendel's murders." },
+      "psychological": { "verdict": 1, "message": "Marion is more psychologically guilty because she, in a lucid state, commits her crime and never owns up to it. Grendel, on the other hand, genuinely thinks it is his purpose to kill and acts accordingly." }
+    },
+    "The Danes": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 1, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    },
+    "Frankenstein": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    },
+    "The Creature": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 0, "message": "" }
+    },
+    "Neville": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "The New Society": {
+      "legal": { "verdict": 1, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    },
+    "Mother": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 2, "message": "" }
+    },
+    "Norman": {
+      "legal": { "verdict": 2, "message": "" },
+      "moral": { "verdict": 2, "message": "" },
+      "psychological": { "verdict": 1, "message": "" }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+    "Grendel": {
+        "legal": {
+            "message": "There is no clear, defined law in the world of Beowulf. However, Grendel creates his own “law” (which is more of an observation), stating, “There is no limit to desire but desire’s needs” (Gardner, 93). If interpreted as his own legal framework, Grendel is excusing himself from culpability by stating that his violence toward the humans is out of the need to sate his desires.",
+            "symbols": []
+        }, 
+        "moral": {
+            "message": "From a deontological perspective, Grendel is largely guilty because many of his murders are carried out with the intention of causing harm. However, he can be excused early in the story (in Chapter 2) under the doctrine of double effect, where he simply wanted to interact with humans but was met with violence and accordingly retaliated. However, from both a utilitarian and consequentialist point of view, Grendel is guilty, as his actions consistently maximize suffering and fear among the Danes with no justification other than being a necessary evil (the Dragon’s idea) to humans.",
+            "symbols": ["Pig!"] 
+        },
+        "psychological": {
+            "message": "Grendel’s psychological guilt is nuanced in that it takes some time for him to develop his sense of identity and his purpose. When he does discover his purpose from the Dragon, his killings ramp up into what we come to know as the “twelve-year war.” Thus, even though Grendel knowingly kills, his killings can be justified by the fact that he thinks it’s his purpose to do so. However, complicating this narrative is the fact that he spares Wealtheow, demonstrating his understanding of the sanctity of human life and the possibility of a world that is not inherently meaningless.",
+            "symbols": ["Wealtheow", "Dragon"]
+        }
+    },
+    "The Danes": {
+        "legal": {
+            "message": "There is no explicitly defined law in the world of Beowulf, but the Danes operate under an implicit social law defined by veneration of the king, exclusion, conquest, and force. Since they themselves define the law, there is no law to compare themselves against, rendering them guiltless of violating any laws.",
+            "symbols": []
+        }, 
+        "moral": {
+            "message": "From a deontological perspective, the Danes’ culpability is complex because their acts sincerely adhere to the values of their society. Through Unferth, we see the Danes place a large emphasis on heroism, and by attempting to kill Grendel (akin to slaying a great beast), the Danes are simply attempting to reach heroic status. This may also be interpreted as devout loyalty to Hrothgar, intended to protect Heorot. On the other hand, their moral considerations exclude Grendel, casting him as a being utterly undeserving of human compassion. By abandoning this universal moral rule, deontological ethics would deem the Danes guilty. From a utilitarian perspective, their intentions are good, but since the Danes ultimately fail to kill Grendel, they remain guilty.",
+            "symbols": ["Unferth"] 
+        },
+        "psychological": {
+            "message": "Even though the Danes possess the necessary mental aptitude to attempt to treat Grendel as anything but a monster, they consistently fail to do so. Their denial allows them to rationalize their violence and absolve themselves of guilt when, in reality, they are psychologically guilty.",
+            "symbols": ["Tree Grendel"]
+        }
+    },
+    "Frankenstein": {
+        "legal": {
+            "message": "Victor Frankenstein violates no formal laws when constructing the Creature (other than maybe raiding the charnel houses), but he repeatedly evades legal responsibility afterward. For one, he never confesses to being the creator of the murderer, out of the fear of his hands being legally soaked with blood as well. Then, he even directly defies the law, withholding his culpability during Justine’s trial. Ultimately, Frankenstein is deeply complicit from a legal perspective.",
+            "symbols": ["The Locket"]
+        }, 
+        "moral": {
+            "message": "Deontologically, Victor is deeply guilty because he creates life without accepting the intrinsic duties that accompany creation. His abandonment of the Creature violates a fundamental moral obligation between a creator and its creation. From a consequentialist point of view, Victor remains guilty as his actions result in numerous deaths, even if revolutionizing the natural sciences.",
+            "symbols": [] 
+        },
+        "psychological": {
+            "message": "A small part of Victor’s abandonment can be justified by the fact that the galvanization of the monster scene was genuinely horrifying for him to witness. This, however, does not excuse the subsequent willful abandonment of the monster and awareness of what his actions may have created. For example, he acknowledges that the monster may have killed William before finding definitive proof (Shelley, 84).",
+            "symbols": ["The Locket", "Yellow eyes"]
+        }
+    },
+    "The Creature": {
+        "legal": {
+            "message": "Legally, the Creature is guilty of multiple murders, of course. However, it is notable to consider that these murders violate laws within a society that does not accept him. Thus, the Creature’s legal culpability is diminished within human society, if not completely erased. That being said, in the real world, one can violate the laws of societies they are not a part of (people in foreign countries, for example), and the Creature knows it is illegal to kill, so it is logical that the Creature should bear some legal responsibility.",
+            "symbols": ["Books/literature"]
+        }, 
+        "moral": {
+            "message": "From a deontological standpoint, the Creature is guilty because he knowingly causes suffering. Utilitarianism and consequentialism also agree, as his actions of killing unfortunately do not justify the social exclusion and xenophobia he experiences. Tragic as it is, when evaluated on the moral scale, the Creature’s isolation does not compare to the killing he sows.",
+            "symbols": ["The rifle", "Black choke marks"] 
+        },
+        "psychological": {
+            "message": "The first thing to consider is the psychological toll of the Creature’s social exclusion and lack of a parental figure. This allows for a greater sense of sympathy for the Creature’s circumstances. However, as he accumulates more knowledge and understanding of human society through literature, not only does his innocence begin to erode, but his plot for revenge also makes way. Ultimately, as he accumulates more knowledge and life experience, he only commits more insidious killings. It is one thing for him to kill as a nascent, developing mind, but his cold, calculated plots as he gets smarter render him guilty.",
+            "symbols": ["Books/literature"]
+        }
+    },
+    "Neville": {
+        "legal": {
+            "message": "Human law has utterly collapsed in the world of I Am Legend. Neville’s killings are justified within his own framework of survival, as that is the only framework he knows. Importantly, he does not know that some of the vampires are perfectly sentient when killing them. Ultimately, Neville’s legal guilt depends on whether the new society’s laws or his own survival is prioritized, but his retaliation can be reasonably framed as self-defense.",
+            "symbols": ["The Stakes"]
+        }, 
+        "moral": {
+            "message": "Neville would violate the deontological rule not to kill other sentient beings, but since he doesn’t learn of the vampires’ sentience until the end of the novel, he is guiltless on this front. Neville is certainly guilty from a utilitarian standpoint, however, as his killings do maximize the suffering of the new, sentient vampires. Even if done for survival, utilitarianism solely focuses on outcome over intent. The consequentialist reading is largely the same, painting Neville as the monster. Thus, Neville is largely morally guilty, even if he did not know of the vampires’ sentience.",
+            "symbols": [] 
+        },
+        "psychological": {
+            "message": "Neville is completely absolved from a psychological perspective. His killings can be justified as acts of desperation and survival, and he was never aware that he was killing sentient vampires. This is only slightly complicated by the late realization that Neville derived some levels of satisfaction from killing.",
+            "symbols": []
+        }
+    },
+    "Society": {
+        "legal": {
+            "message": "The new society is fully within its own legal right to execute Neville, as they govern the new laws of the land.",
+            "symbols": []
+        }, 
+        "moral": {
+            "message": "From a deontological perspective, the new society is guilty of perpetuating the cycle of violence by executing Neville (albeit the cycle started by Neville). Utilitarianism, however, partially excuses their actions, as Neville did pose a tangible threat to their stability.",
+            "symbols": [] 
+        },
+        "psychological": {
+            "message": "The new society is aware of Neville’s humanity but still chooses to execute him. Additionally, the sentient vampires, much like Neville, derive great satisfaction from killing the “impaired” vampires, and they even eagerly await Neville’s execution. Their partially sadistic makeup does create some psychological culpability, but it’s still true that they kill Neville largely out of the desire to grow and thrive.",
+            "symbols": []
+        }
+    },
+    "Mother": {
+        "legal": {
+            "message": "Mother is very clearly legally guilty of murder, though this is complicated if Mother is considered separate from Norman (dead) or simply Norman impersonating her. If separated from Norman’s identity and treated as a member of society, Mother bears full legal culpability. However, if treated as Norman impersonating her, then Norman bears the legal responsibility, and Mother, being dead, is not guilty of murder.",
+            "symbols": []
+        }, 
+        "moral": {
+            "message": "Deontologically, Mother is guilty as she relinquishes the standard moral restraint to kill when she murders women in the Bates Motel. Utilitarianism and consequentialism do not excuse her either, as her murders do not serve any greater end other than selfish possessiveness (of Norman).",
+            "symbols": [] 
+        },
+        "psychological": {
+            "message": "Psychological: Mother is entirely aware of the outcome of her murders, and her personality is not muddled, unlike Norman's, because she is the dominant personality in Norman’s body. Thus, Mother is psychologically guilty for her murders.",
+            "symbols": []
+        }
+    },
+    "Norman": {
+        "legal": {
+            "message": "Norman’s legal culpability is complicated because if treating Norman as his just his body, then he is legally responsible. However, if viewing Norman as a passenger in his body, and interpreting Mother as the driver (when murders are committed), then Norman is not guilty of murder. Still, Norman is complicit in Mother’s murders because he hides the evidence.",
+            "symbols": ["The blood on his hands"]
+        }, 
+        "moral": {
+            "message": "Deontologically, Norman is guilty of not reporting his Mother’s crimes to the police earlier. It is said Mother feared we were planning to at the end, but Norman was still complicit in Mother’s previous crimes and ultimately did not report her before they were naturally caught. Then, from a utilitarian and consequentialist lens, he is also guilty of assisting a murder, because his ends of protecting his mother fail to hold up to moral standards.",
+            "symbols": [] 
+        },
+        "psychological": {
+            "message": "Norman is psychologically guilty in the sense that he is both aware of his mother’s actions as well as his own actions to hide the evidence. However, Norman is psychologically exposed because of how subservient he is to his mother.",
+            "symbols": []
+        }
+    },
+    "Marion": {
+        "legal": {
+            "message": "Marion is decisively legally guilty of theft, knowingly stealing $40,000.",
+            "symbols": []
+        }, 
+        "moral": {
+            "message": "From a deontological perspective, Marion’s theft is wrong regardless of her intent. Applying utilitarianism, her ends of seeking a better life with Sam do not justify the means of theft. The same logic applies to consequentialism.",
+            "symbols": [] 
+        },
+        "psychological": {
+            "message": "Psychologically, Marion is visibly acutely aware of her wrongdoing, experiencing intense guilt and paranoia (especially when pursued and questioned by the cop). Nevertheless, she continues to commit her crime without substantial self-reflection, rendering her psychologically guilty.",
+            "symbols": []
+        }
+    }
+}
